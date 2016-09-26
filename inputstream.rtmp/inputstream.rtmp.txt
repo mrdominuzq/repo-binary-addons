@@ -1,1 +1,1 @@
-inputstream.rtmp https://github.com/notspiff/inputstream.rtmp fix
+inputstream.rtmp https://github.com/notspiff/inputstream.rtmp master
