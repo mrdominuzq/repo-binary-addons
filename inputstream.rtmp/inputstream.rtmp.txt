@@ -1,1 +1,1 @@
-inputstream.rtmp https://github.com/mrdominuzq/inputstream.rtmp master
+inputstream.rtmp https://github.com/mrdominuzq/inputstream.rtmp fix
