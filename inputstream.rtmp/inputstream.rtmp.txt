@@ -1,1 +1,1 @@
-inputstream.rtmp https://github.com/mrdominuzq/inputstream.rtmp libressl
+inputstream.rtmp https://github.com/mrdominuzq/inputstream.rtmp fix
