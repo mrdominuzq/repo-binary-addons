@@ -1,1 +1,1 @@
-inputstream.rtmp https://github.com/mrdominuzq/inputstream.rtmp test2
+inputstream.rtmp https://github.com/mrdominuzq/inputstream.rtmp test3
