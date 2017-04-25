@@ -1,0 +1,1 @@
+script.module.pycryptodome https://github.com/mrdominuzq/script.module.pycryptodome master
